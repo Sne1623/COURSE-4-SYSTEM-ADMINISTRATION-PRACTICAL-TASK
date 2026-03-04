@@ -56,6 +56,7 @@ Successful rendering confirmed:
 
 ## 1️⃣ Apache Service Running (XAMPP Control Panel)
 <img width="1225" height="604" alt="Xampp Control Panel" src="https://github.com/user-attachments/assets/002d1e9a-efb7-400d-974d-a52cc379c1c4" />
+<img width="1132" height="242" alt="The server Config" src="https://github.com/user-attachments/assets/a4b3a37b-29c5-4960-93ae-4267a9abc4dc" />
 
 
 ---
